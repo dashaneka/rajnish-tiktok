@@ -1,0 +1,4 @@
+python-telegram-bot[webhooks]==22.8
+httpx[socks]>=0.28,<1
+python-dotenv>=1.1,<2
+yt-dlp==2026.8.19
